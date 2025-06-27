@@ -1,0 +1,19 @@
+body{
+    background-image: url(/download.jpeg);
+        background-repeat: no-repeat ;
+
+
+    
+}
+
+.Menu{
+    margin-right: 200px;
+    padding-left: 50px;
+    color: aliceblue;
+    float: right;
+    
+}
+iframe{
+    padding-top: 200px;
+    padding-left: 200px;
+}
